@@ -70,10 +70,24 @@ The SIEM dashboard successfully displayed:
 ## Future Improvements
 
 - Create custom alert rules  
-- Detect brute-force attacks  
+- Detect brute-force attacks
 - Monitor PowerShell activity  
-- Perform incident analysis  
+- Perform incident analysis 
+
 
 ---
 
-## 📎 Repository Structure
+##  Conclusion
+
+This lab provides a foundational understanding of SIEM operations using Wazuh. It demonstrates how logs are collected, analyzed, and used for security monitoring—an essential skill for SOC analysts.
+
+---
+
+##  Author
+
+**Laiba Asad**  
+Cybersecurity Engineer
+
+ 
+
+
