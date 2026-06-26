@@ -81,13 +81,8 @@ The SIEM dashboard successfully displayed:
 
 This lab provides a foundational understanding of SIEM operations using Wazuh. It demonstrates how logs are collected, analyzed, and used for security monitoring—an essential skill for SOC analysts.
 
+- 
 ---
-
-##  Author
-
-**Laiba Asad**  
-Cybersecurity Engineer
-
- 
+- Copyright © 2026 Laiba Asad (github.com/Laiba-Asad)
 
 
